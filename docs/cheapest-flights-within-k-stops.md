@@ -12,4 +12,4 @@ An alternative is Dijkstra over states (node, stops used). It works, but you mus
 
 BFS by levels with pruning is a third option. Pick one, state why, and walk through a three-node example where the direct flight is expensive and the one-stop route is cheap.
 
-Disclosure: I work on Linkjob AI. If you want to rehearse explaining problems like this with live hints, try [www.linkjob.ai](www.linkjob.ai).
+Disclosure: I work on Linkjob AI. If you want to rehearse explaining problems like this with live hints, try [www.linkjob.ai](https://www.linkjob.ai/).
